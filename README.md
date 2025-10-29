@@ -1,12 +1,12 @@
-🛒 BlinkIT Sales Dashboard
+🛒**BlinkIT Sales Dashboard**
 
-📊 Power BI Dashboard Project
+📊 **Power BI Dashboard Project**
 
-📖 Overview
+📖 **Overview**
 
 This project is an interactive Power BI dashboard analyzing BlinkIT’s sales and business performance. It helps visualize key performance indicators (KPIs), product categories, regional trends, and customer demand to support data-driven decision-making.
 
-🎯 Objectives
+🎯 **Objectives**
 
 Track overall sales performance and profitability.
 
@@ -16,7 +16,7 @@ Compare regional sales performance and customer demand.
 
 Provide interactive filters and drill-downs for deeper insights.
 
-🛠️ Tools & Technologies
+🛠️ **Tools & Technologies**
 
 Power BI Desktop – for data visualization and dashboard creation.
 
@@ -24,7 +24,7 @@ Power Query – for data cleaning and transformation.
 
 Excel Dataset – BlinkIT sales and product data.
 
-📊 Dashboard Features
+📊 **Dashboard Features**
 
 KPIs & Metrics: total sales, revenue, profit margin, average order value.
 
@@ -34,7 +34,7 @@ Filters & Slicers: region, product category, and time period.
 
 Business Insights: highlights trends, customer preferences, and areas for growth.
 
-📢 Author
+📢 **Author**
 
 Created by [JuherKhan] – feel free to connect on LinkedIn www.linkedin.com/in/juher-khan-127490338 or reach out for collaboration.
 <img width="1328" height="745" alt="image" src="https://github.com/user-attachments/assets/f87e953d-3d86-4f1e-82b8-779a858784a6" />
